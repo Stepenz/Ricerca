@@ -1,0 +1,15 @@
+C:\Users\alunno\Documents\GitHub\Ricerca\Ricerca\Ricerca\bin\Debug\net8.0\Ricerca.exe
+C:\Users\alunno\Documents\GitHub\Ricerca\Ricerca\Ricerca\bin\Debug\net8.0\Ricerca.deps.json
+C:\Users\alunno\Documents\GitHub\Ricerca\Ricerca\Ricerca\bin\Debug\net8.0\Ricerca.runtimeconfig.json
+C:\Users\alunno\Documents\GitHub\Ricerca\Ricerca\Ricerca\bin\Debug\net8.0\Ricerca.dll
+C:\Users\alunno\Documents\GitHub\Ricerca\Ricerca\Ricerca\bin\Debug\net8.0\Ricerca.pdb
+C:\Users\alunno\Documents\GitHub\Ricerca\Ricerca\Ricerca\obj\Debug\net8.0\Ricerca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunno\Documents\GitHub\Ricerca\Ricerca\Ricerca\obj\Debug\net8.0\Ricerca.AssemblyInfoInputs.cache
+C:\Users\alunno\Documents\GitHub\Ricerca\Ricerca\Ricerca\obj\Debug\net8.0\Ricerca.AssemblyInfo.cs
+C:\Users\alunno\Documents\GitHub\Ricerca\Ricerca\Ricerca\obj\Debug\net8.0\Ricerca.csproj.CoreCompileInputs.cache
+C:\Users\alunno\Documents\GitHub\Ricerca\Ricerca\Ricerca\obj\Debug\net8.0\Ricerca.sourcelink.json
+C:\Users\alunno\Documents\GitHub\Ricerca\Ricerca\Ricerca\obj\Debug\net8.0\Ricerca.dll
+C:\Users\alunno\Documents\GitHub\Ricerca\Ricerca\Ricerca\obj\Debug\net8.0\refint\Ricerca.dll
+C:\Users\alunno\Documents\GitHub\Ricerca\Ricerca\Ricerca\obj\Debug\net8.0\Ricerca.pdb
+C:\Users\alunno\Documents\GitHub\Ricerca\Ricerca\Ricerca\obj\Debug\net8.0\Ricerca.genruntimeconfig.cache
+C:\Users\alunno\Documents\GitHub\Ricerca\Ricerca\Ricerca\obj\Debug\net8.0\ref\Ricerca.dll
