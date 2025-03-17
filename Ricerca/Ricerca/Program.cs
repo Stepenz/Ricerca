@@ -14,10 +14,12 @@
                 Console.WriteLine("3. Esci");
 
                 scelta = int.Parse(Console.ReadLine());
-
+                
                 switch (scelta)
                 {
                     case 1:
+                        // DONE: Visualizzazione dell'array
+                        Stampa();
                         break;
 
                     case 2:
@@ -32,6 +34,14 @@
                             break;
                 }
             } while (scelta < 3);
+        }
+
+        static void Stampa ()
+        {
+            for (int i = 0; i < array.Length; i++)
+            {
+                Console.Write(array[i] + " ");
+            }
         }
     }
 }
