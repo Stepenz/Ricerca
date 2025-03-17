@@ -15,8 +15,23 @@
 
                 scelta = int.Parse(Console.ReadLine());
 
-                
-            } while (true);
+                switch (scelta)
+                {
+                    case 1:
+                        break;
+
+                    case 2:
+                        break;
+
+                    case 3:
+                        Console.WriteLine("Alla prossima volta");
+                        break;
+
+                    default:
+                        Console.WriteLine("scelta non valida");
+                            break;
+                }
+            } while (scelta < 3);
         }
     }
 }
