@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\alunno\\Documents\\GitHub\\Ricerca\\Ricerca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alunno\\Documents\\GitHub\\Ricerca\\Ricerca\\Ricerca\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ricerca\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8B6025E-4A8F-4EE1-990E-3D15554344C5}|Ricerca\\Ricerca.csproj|c:\\users\\alunno\\documents\\github\\ricerca\\ricerca\\ricerca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B6025E-4A8F-4EE1-990E-3D15554344C5}|Ricerca\\Ricerca.csproj|solutionrelative:ricerca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Ricerca\\Program.cs",
               "ToolTip": "C:\\Users\\alunno\\Documents\\GitHub\\Ricerca\\Ricerca\\Ricerca\\Program.cs",
               "RelativeToolTip": "Ricerca\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T14:43:18.032Z",
               "EditorCaption": ""

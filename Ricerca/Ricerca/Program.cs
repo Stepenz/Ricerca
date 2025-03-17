@@ -23,6 +23,17 @@
                         break;
 
                     case 2:
+                        // DONE: RICERCA DI UN NUMERO
+                        Console.WriteLine("Inserisci il numero da ricercare");
+                        int numero = int.Parse(Console.ReadLine());
+
+                        if (Ricerca(numero) != -1)
+                        {
+                            Console.WriteLine("Numero trovato");
+                        } else
+                        {
+                            Console.WriteLine("Numero non trovato");
+                        }
                         break;
 
                     case 3:
@@ -42,6 +53,18 @@
             {
                 Console.Write(array[i] + " ");
             }
+        }
+
+        static int Ricerca(int numero)
+        {
+            for (int i = 0; i < array.Length;i++)
+            {
+                if (array[i] == numero)
+                {
+                    return 1;
+                }
+            }
+            return -1;
         }
     }
 }
